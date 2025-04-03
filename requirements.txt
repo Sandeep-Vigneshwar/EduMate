@@ -1,0 +1,48 @@
+# Core Dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Federated Learning
+flower
+pysyft
+
+# Network Analysis & GNNs
+networkx
+torch-geometric
+dgl
+
+# Adversarial Learning
+cleverhans
+foolbox
+
+# NLP (if needed)
+transformers
+sentencepiece
+
+# Web Scraping (if needed)
+beautifulsoup4
+requests
+
+# Blockchain (if integrating Solidity)
+web3
+
+# Django (if using for backend)
+django
+djangorestframework
+
+# Utilities
+tqdm
+jupyter
+notebook
+scipy
+pyyaml
