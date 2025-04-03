@@ -51,7 +51,7 @@ EduMate/
 - 🔍 **Improved Web Scraping**: More robust methods for fetching high-quality educational resources.
 
 ## 👨‍💻 Contributors
-- **Dharmadhaashan P** - GitHub: [https://github.com/Dharmadhaashan](Link)
-- **Sanjay S** - GitHub: [https://github.com/sanjayssrini](Link)
+- **Dharmadhaashan P** - GitHub: [Link](https://github.com/Dharmadhaashan)
+- **Sanjay S** - GitHub: [Link](https://github.com/sanjayssrini)
 
 Everyone are welcomed to punch your creativity by contributing in our project!
